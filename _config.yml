@@ -1,5 +1,5 @@
-title: Your awesome title
-author: GitHub User
+title: cDoGGo TLI 
+author: kcdoggo
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: cDoGGo
-  tagline: Front end dev student
+  tagline: Front end student
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
