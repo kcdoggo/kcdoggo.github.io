@@ -2,6 +2,8 @@
 layout: post
 title:  "react spinner"
 categories: React
+show_excerpts: true
+
 ---
 리액트 스피너를 만들기 위해선 npm을 이용하는 게 간편하고 빠르다
 <br/>
@@ -29,4 +31,3 @@ export default class App extends React.Component {
 }
 
 ```
-show_excerpts: true
